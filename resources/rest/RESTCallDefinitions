@@ -1,0 +1,10 @@
+{
+	"source" : "PH",
+	"sourceUrl" : "http://source",
+	"resourceUrl" : "http://resource",
+	"systemFilePath" : "file://resource",
+	"strategy" : "MULTI_FILE",
+	"Invoker" : "omega-automation-bot",
+	"channel" : "channel",
+	"title" : "title"
+}
